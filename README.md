@@ -47,13 +47,7 @@ Run the following command:
 python main.py
 ```
 
-## 🚀 Future Improvements
 
-* 🎵 Sound effects
-* ❤️ Multiple lives
-* ⬅️➡️ Left and right movement
-* 🌟 High score tracking
-* 🎨 Improved graphics and animations
 
 ## 👨‍💻 Author
 
